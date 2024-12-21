@@ -16,6 +16,14 @@
       "version": "2.0.5",
       "source": "registry"
     },
+    "com.unity.charactercontroller@1.2.4": {
+      "name": "com.unity.charactercontroller",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.charactercontroller",
+      "fingerprint": "8f574cea3932daab13c35b455b0aaf87dad5a866",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "1.2.4",
+      "source": "registry"
+    },
     "com.unity.collab-proxy@2.5.2": {
       "name": "com.unity.collab-proxy",
       "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.collab-proxy",
@@ -332,6 +340,22 @@
       "version": "17.0.3",
       "source": "builtin"
     },
+    "com.unity.physics@1.3.2": {
+      "name": "com.unity.physics",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.physics",
+      "fingerprint": "5ee9a9ca3bec48d2e2a082e6541d6a87903547e8",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "1.3.2",
+      "source": "registry"
+    },
+    "com.unity.entities@1.3.2": {
+      "name": "com.unity.entities",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.entities",
+      "fingerprint": "1eebe0437e56ad7ad83a9a7b928e7361357e40a8",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "1.3.2",
+      "source": "registry"
+    },
     "com.unity.searcher@4.9.2": {
       "name": "com.unity.searcher",
       "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.searcher",
@@ -372,12 +396,36 @@
       "version": "1.0.1",
       "source": "builtin"
     },
+    "com.unity.serialization@3.1.2": {
+      "name": "com.unity.serialization",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.serialization",
+      "fingerprint": "582cbf30bbfd3c90a738e49c2ad69eafd8803f1d",
+      "editorCompatibility": "2022.2.0a18",
+      "version": "3.1.2",
+      "source": "registry"
+    },
+    "com.unity.profiling.core@1.0.2": {
+      "name": "com.unity.profiling.core",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.profiling.core",
+      "fingerprint": "aac7b93912bc5df5fe06b04ff1b758493cdc2346",
+      "editorCompatibility": "2020.1.0a1",
+      "version": "1.0.2",
+      "source": "registry"
+    },
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
       "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
       "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
       "editorCompatibility": "2018.4.0a1",
       "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.scriptablebuildpipeline@2.1.4": {
+      "name": "com.unity.scriptablebuildpipeline",
+      "resolvedPath": "D:\\arcadeGitHub\\arcadeFighterPilot\\arcadeFighterPlaneGame\\Library\\PackageCache\\com.unity.scriptablebuildpipeline",
+      "fingerprint": "101dcb4353ce8bea5b4404d0ca31ce5a00ca751b",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.4",
       "source": "registry"
     },
     "com.unity.test-framework.performance@3.0.3": {

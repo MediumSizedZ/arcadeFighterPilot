@@ -54,6 +54,16 @@ Rendering
 Universal
 RenderQueueType
 RenderObjects
+FileUtilityHybrid
+Unity
+Entities
+Hybrid
+ReferencedUnityObjects
+SerializeUtilityHybrid
+Serialization
+ResourceMetaData
+ResourceCatalogData
+SceneBoundingVolume
 AssetModificationProcessor
 
 Sysroot

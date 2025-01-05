@@ -487,7 +487,9 @@
 "Assets/Samples/Character Controller/1.2.4/Standard Characters/ThirdPerson/Scripts/ThirdPersonPlayerAuthoring.cs"
 "Assets/Samples/Character Controller/1.2.4/Standard Characters/ThirdPerson/Scripts/ThirdPersonPlayerSystems.cs"
 "Assets/scripts/billboarding.cs"
+"Assets/scripts/EnemyMovement.cs"
 "Assets/scripts/groundDetector.cs"
+"Assets/scripts/playerCharacter.cs"
 "Assets/scripts/playerController.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
